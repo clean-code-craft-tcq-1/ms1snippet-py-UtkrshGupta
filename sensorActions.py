@@ -1,6 +1,6 @@
 all_sensor_status = {
-                      'soc': True,
-                      'current': True
+                      'soc': 'ON',
+                      'current': 'ON'
                      }
 
 def get_sensor_status(param_name):
